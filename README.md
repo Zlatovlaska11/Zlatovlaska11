@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently learning/working in rust<br>first year in high school<br>Your average Linux user<br><br>" The jump always feels scary, and often, the landing is amazing " -> The Primeagen<br>
+currently learning/working in rust<br>second year in high school<br>Your average Linux user<br><br>"The jump always feels scary, and often, the landing is amazing" -> The Primeagen<br>
 
 
 ## 🌐 Socials:
