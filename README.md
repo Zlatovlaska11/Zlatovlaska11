@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently learning/working in rust<br>second year in high school<br>Your average Linux user<br><br>"The jump always feels scary, and often, the landing is amazing" -> The Primeagen<br>
+the creator of the ![@Strnadi](https://github.com/Strnadi/Strnadi-Mobile-App) mobile app and a programming enthusiast<br>"The jump always feels scary, and often, the landing is amazing" -> The Primeagen<br>
 
 
 # 💻 Tech Stack:
